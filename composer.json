@@ -15,9 +15,9 @@
     ],
     "require": {
         "php": "^7.3|^8.0|^8.1",
-        "illuminate/config": "~9.0",
-        "illuminate/session": "~9.0",
-        "illuminate/support": "~9.0",
+        "illuminate/config": "~10.0",
+        "illuminate/session": "~10.0",
+        "illuminate/support": "~10.0",
         "laravelcollective/html": "~6.0"
     },
     "require-dev": {
